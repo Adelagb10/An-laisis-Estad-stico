@@ -1,6 +1,6 @@
-Adela García
+#Adela García
 #05/08/2019
-#Análisis Estadístico
+#Analisis estadistico
 
 
 # Importado excel ---------------------------------------------------------
@@ -62,8 +62,8 @@ hist(DBH.16$diametro)
 mean(DB_conjunto$altura)
 sd(DB_conjunto$altura)
 
-mean(H.media$altura)
-sd(H.media$altura)
+mean(H.mean$altura)
+sd(H.mean$altura)
 
 mean(H.16$altura)
 sd(H.16$altura)
